@@ -1,6 +1,9 @@
 //
-// Created by AUTHOR
-// Copyright (c) YEAR AUTHOR. All rights reserved.
+//  FILENAME
+//  TARGET
+//
+//  Created by AUTHOR on DATE.
+//  Copyright © YEAR COMPANY. All rights reserved.
 //
 
 import Foundation

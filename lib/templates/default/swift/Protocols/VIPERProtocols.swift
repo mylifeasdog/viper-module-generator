@@ -1,6 +1,9 @@
 //
-// Created by AUTHOR
-// Copyright (c) YEAR AUTHOR. All rights reserved.
+//  FILENAME
+//  TARGET
+//
+//  Created by AUTHOR on DATE.
+//  Copyright © YEAR COMPANY. All rights reserved.
 //
 
 import Foundation
@@ -15,7 +18,7 @@ protocol VIPERViewProtocol: class
 
 protocol VIPERWireFrameProtocol: class
 {
-    class func presentVIPERModule(fromView view: AnyObject)
+    static func presentVIPERModule(fromView view: Any)
     /**
     * Add here your methods for communication PRESENTER -> WIREFRAME
     */
